@@ -1,7 +1,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h2>👋 关于我</h2>
 
-- 👋 Hi, I’m @songzigg
+- 👋 Hi, I’m @gitSina9468
 - 👀 I’m interested in Python, Java, AI, Internet, and Linux.
 - 🌱 I’m currently learning Python, Qt, and AI.
 - 💞️ I’m looking to collaborate to improve my skills.
@@ -12,10 +12,10 @@
 <h2>🏆 GitHub 活动</h2>
 
 <p>
-	<img align="left" src="https://github-profile-trophy.vercel.app/?username=songzigg&theme=onedark&column=-1&margin-w=15" />
+	<img align="left" src="https://github-profile-trophy.vercel.app/?username=gitSina9468&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=songzigg&theme=merko&custom_title=songzigg%20活动图&hide_border=true&point=FFFFFF&days=30)](https://github.com/songzigg)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gitSina9468&theme=merko&custom_title=gitSina9468%20活动图&hide_border=true&point=FFFFFF&days=30)](https://github.com/gitSina9468)
 
 <h2>🔧 语言和工具</h2>
 
@@ -101,6 +101,6 @@
 </p>
 
 <!---
-songzigg/songzigg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gitSina9468/gitSina9468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
